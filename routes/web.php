@@ -12,10 +12,10 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('frontend.layouts.app');
 });
 Route::get('/front', function () {
-    return view('frontend.layouts.app');
+    return view('welcome');
 });
 Route::get('/back', function () {
     return view('backend.layouts.app');
