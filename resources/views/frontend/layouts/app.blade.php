@@ -48,19 +48,19 @@
     </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco_navbar ftco-navbar-light" id="ftco-navbar">
 	    <div class="container d-flex align-items-center">
-	    	<a class="navbar-brand" href="index.html">Femleen Private Schools</a>
+	    	<a class="navbar-brand" href="#">Femleen Private Schools</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	        	<li class="nav-item active"><a href="index.html" class="nav-link pl-0">Home</a></li>
-	        	<li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-	        	<li class="nav-item"><a href="teacher.html" class="nav-link">Teachers</a></li>
-	        	<li class="nav-item"><a href="courses.html" class="nav-link">Curriculum</a></li>
-	        	<li class="nav-item"><a href="pricing.html" class="nav-link">Admission</a></li>
-	        	<li class="nav-item"><a href="blog.html" class="nav-link">Events</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	        	<li class="nav-item active"><a href="/" class="nav-link pl-0">Home</a></li>
+	        	<li class="nav-item"><a href="#" class="nav-link">About</a></li>
+	        	<li class="nav-item"><a href="#" class="nav-link">Teachers</a></li>
+	        	<li class="nav-item"><a href="#" class="nav-link">Curriculum</a></li>
+	        	<li class="nav-item"><a href="#" class="nav-link">Admission</a></li>
+	        	<li class="nav-item"><a href="#" class="nav-link">Events</a></li>
+	          <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -643,7 +643,7 @@
 				<div class="row">
           <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('{{ asset("frontend/images/image_1.jpg") }}');">
+              <a href="#" class="block-20 d-flex align-items-end" style="background-image: url('{{ asset("frontend/images/image_1.jpg") }}');">
 								<div class="meta-date text-center p-2">
                   <span class="day">27</span>
                   <span class="mos">January</span>
@@ -665,7 +665,7 @@
           </div>
           <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('{{ asset("frontend/images/image_2.jpg") }}');">
+              <a href="#" class="block-20 d-flex align-items-end" style="background-image: url('{{ asset("frontend/images/image_2.jpg") }}');">
 								<div class="meta-date text-center p-2">
                   <span class="day">27</span>
                   <span class="mos">January</span>
@@ -687,7 +687,7 @@
           </div>
           <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('{{ asset("frontend/images/image_3.jpg") }}');">
+              <a href="#" class="block-20 d-flex align-items-end" style="background-image: url('{{ asset("frontend/images/image_3.jpg") }}');">
 								<div class="meta-date text-center p-2">
                   <span class="day">27</span>
                   <span class="mos">January</span>
