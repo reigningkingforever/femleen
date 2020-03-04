@@ -12,11 +12,18 @@
 */
 
 Route::get('/', function () {
-    return view('frontend.layouts.app');
+    return view('frontend.home');
 });
-Route::get('/front', function () {
-    return view('welcome');
-});
-Route::get('/back', function () {
+Route::view('about','frontend.about')->name('about');
+Route::view('facilities','frontend.facilities')->name('facilities');
+Route::view('admission','frontend.admission')->name('admission');
+Route::view('contact','frontend.contact')->name('contact');
+ Route::get('portal', function () {
+     return view('frontend.portal');
+ });
+Route::get('events','FrontendController@events')->name('events');
+Route::get('blog','FrontendController@blog')->name('blog');
+Route::get('blogpost','FrontendController@blogpost')->name('blogpost');
+Route::get('back', function () {
     return view('backend.layouts.app');
 });
