@@ -113,7 +113,7 @@
             </div>
         </a>
         <div class="text bg-white p-4">
-            <h3 class="heading"><a href="#">Skills To Develop Your Child Memory</a></h3>
+            <h3 class="heading"><a href="#">Cultural Dance</a></h3>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
             <div class="d-flex align-items-center mt-4">
                 <p class="mb-0"><a href="#" class="btn btn-secondary">Read More <span class="ion-ios-arrow-round-forward"></span></a></p>
